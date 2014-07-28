@@ -1,5 +1,5 @@
 # encoding: utf-8
-require 'open-uri_redirections'
+require 'open_uri_redirections'
 require 'pismo/internal_attributes'
 require 'pismo/external_attributes'
 
